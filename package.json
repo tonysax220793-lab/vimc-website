@@ -1,0 +1,12 @@
+{
+  "name": "vimc-website",
+  "version": "1.0.0",
+  "description": "Website Trung tâm Y học Bản địa Việt Nam (VIMC) — prototype tĩnh theo PRD v3.0 & hướng dẫn UX/UI v1.0",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["vimc", "y-hoc-ban-dia", "tdcs", "website"],
+  "author": "VIMC Digital Team",
+  "license": "UNLICENSED"
+}
